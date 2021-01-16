@@ -45,25 +45,10 @@ Training Data Set : 총 4234 장 (train: validation = 8: 2)<br>
 Training Data Set을 8:2 비율로 나누어 train data 와 validation data로 나누었고, Training Data의 평균 인식률은 97.6%의 정확도를 보였다.<br>
 
 <h4><1.Testing Accuracy><br></h4>
-![TestAccuracy](https://user-images.githubusercontent.com/69441007/104813781-a1317b00-584e-11eb-9ab6-0d55c33dab99.png)
   
+![TestAccuracy](https://user-images.githubusercontent.com/69441007/104813781-a1317b00-584e-11eb-9ab6-0d55c33dab99.png)
+
 Testing Accuracy = 95.2%<br>
 Testing Data Set 이미지 400장(클래스 별 50장)을 사용하여 하수관 결함 자동 시스템 인식률을 측정하였고, Testing Data의 평균 인식률은 95.2%의 정확도를 보였다. <br>
 
 
-<br>
-<br>
-## 3. 직접 개발한 부분
-<pre>* 메인페이지 개발<br>
-&nbsp;- 웹 크롤링<br>
-&nbsp;- 영화 및 맛집 정보제공<br>
-&nbsp;- 게시판 및 DB연동<br></pre>
-
-![캡처3](https://user-images.githubusercontent.com/69441007/103453428-3e53c600-4d1d-11eb-9e68-0451e4016975.png)
-<br>
-<br>
-
-## 4. 전체 개발 페이지
-![캡처4](https://user-images.githubusercontent.com/69441007/103453634-2ed57c80-4d1f-11eb-9cdb-1b2d37582e5e.GIF)
- 
-<br>
