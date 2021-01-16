@@ -34,7 +34,7 @@
 ![model](https://user-images.githubusercontent.com/69441007/104813811-dccc4500-584e-11eb-8f33-0e3215b80318.PNG)
 
 <h3>3)실험 결과</h3><br>
-<h3><1.Training Accuracy><br></h3>
+<h3><1. Training Accuracy><br></h3>
   
 ![trainAccuracy](https://user-images.githubusercontent.com/69441007/104813835-05543f00-584f-11eb-82b5-83442aabda79.PNG)
 
@@ -42,13 +42,13 @@
 -Batch size: 64<br>
 -Training Accuracy: 97.6%<br>
 -Training Data Set : 총 4234 장 (train: validation = 8: 2)<br>
-<pre><b>Training Data Set을 8:2 비율로 나누어 train data 와 validation data로 나누었고,<br>Training Data의 평균 인식률은 97.6%의 정확도를 보였다.<b><br></pre>
+<pre>Training Data Set을 8:2 비율로 나누어 train data 와 validation data로 나누었고,<br>Training Data의 평균 인식률은 97.6%의 정확도를 보였다.<br></pre>
 
-<h3><2.Testing Accuracy><br></h3>
+<h3><2. Testing Accuracy><br></h3>
   
 ![TestAccuracy](https://user-images.githubusercontent.com/69441007/104813781-a1317b00-584e-11eb-9ab6-0d55c33dab99.png)
 
 -Testing Accuracy = 95.2%<br>
-<pre><b>Testing Data Set 이미지 400장(클래스 별 50장)을 사용하여 하수관 결함 자동 시스템 인식률을 측정하였고,<br>Testing Data의 평균 인식률은 95.2%의 정확도를 보였다.<b><br></pre>
+<pre>Testing Data Set 이미지 400장(클래스 별 50장)을 사용하여 하수관 결함 자동 시스템 인식률을 측정하였고,<br>Testing Data의 평균 인식률은 95.2%의 정확도를 보였다.<br></pre>
 
 
