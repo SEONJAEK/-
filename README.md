@@ -20,9 +20,14 @@
 ## 2. 연구 내용
 
 <h3>1) 데이터 셋</h3>
-총 데이터 개수: 4634개(Training Data + Testing Data)
--Training Data: 4234개
--Testing Data: 400개 (클래스 별 각 50개)
+총 데이터 개수: 4634개(Training Data + Testing Data)<br>
+-Training Data: 4234개<br>
+-Testing Data: 400개 (클래스 별 각 50개)<br>
+
+<h3>2)하수관로 자동 인식 시스템 구조</h3>
+(사진)
+<h3>3)실험 결과</h3>
+
 
 <br>
 <br>
