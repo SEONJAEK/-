@@ -28,7 +28,6 @@
 ![class1](https://user-images.githubusercontent.com/69441007/104813768-89f28d80-584e-11eb-866e-0c5943cc72e9.PNG)
 
 <br>
-<br>
 <h3>2)하수관로 자동 인식 시스템 구조</h3>
 
 ![model](https://user-images.githubusercontent.com/69441007/104813811-dccc4500-584e-11eb-8f33-0e3215b80318.PNG)
