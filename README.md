@@ -22,7 +22,7 @@
 <h3>1) 데이터 셋</h3>
 총 데이터 개수: 4634개(Training Data + Testing Data)<br>
 -Training Data: 4234개<br>
--Testing Data: 400개 (클래스 별 각 50개)<br>
+-Testing Data: 400개 (클래스 별 각 50개)
 
 ![class2](https://user-images.githubusercontent.com/69441007/104813677-13ee2680-584e-11eb-8ab1-7088d6ef6d61.gif)
 ![class1](https://user-images.githubusercontent.com/69441007/104813768-89f28d80-584e-11eb-866e-0c5943cc72e9.PNG)
