@@ -44,7 +44,6 @@
 -Training Data Set : 총 4234 장 (train: validation = 8: 2)<br>
 <pre>Training Data Set을 8:2 비율로 나누어 train data 와 validation data로 나누었고,<br>Training Data의 평균 인식률은 <b>97.6%의 정확도</b>를 보였다.<br></pre>
 <br>
-<br>
 
 <h3><2. Testing Accuracy><br></h3>
   
