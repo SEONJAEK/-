@@ -40,8 +40,8 @@
 
 -Epoch: 50<br>
 -Batch size: 64<br>
--Training Accuracy: 97.6%<br><br>
-Training Data Set : 총 4234 장 (train: validation = 8: 2)<br>
+-Training Accuracy: 97.6%<br>
+-Training Data Set : 총 4234 장 (train: validation = 8: 2)<br>
 <h4>Training Data Set을 8:2 비율로 나누어 train data 와 validation data로 나누었고, Training Data의 평균 인식률은 97.6%의 정확도를 보였다.<br></h4>
 
 <h3><2.Testing Accuracy><br></h3>
