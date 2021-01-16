@@ -15,7 +15,7 @@
 <br>
 ## 2. 연구 내용
 
-###1) 데이터 셋
+<h3>1) 데이터 셋</h3>
 총 데이터 개수: 4634개(Training Data + Testing Data)
 -Training Data: 4234개
 -Testing Data: 400개 (클래스 별 각 50개)
