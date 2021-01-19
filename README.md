@@ -1,6 +1,6 @@
 # Sewer-Crack-Detection
-:Deep Learning based Sewer Defect Automatic Recognition System <br><br>
-논문: 
+Deep Learning based Sewer Defect Automatic Recognition System <br><br>
+[논문]: 
 [[2020한국차세대컴퓨팅학회논문] 딥러닝 기반의 하수관로 결함 자동 인식 시스템.pdf](https://github.com/SEONJAEK/Sewer-Crack-Detection/files/5835754/2020.pdf)
 <br>
 
