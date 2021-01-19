@@ -38,7 +38,7 @@ Deep Learning based Sewer Defect Automatic Recognition System <br><br>
 <h3>3)실험 결과</h3><br>
 <h3><1. Training Accuracy><br></h3>
  <br>
-<img src="https://user-images.githubusercontent.com/69441007/104813835-05543f00-584f-11eb-82b5-83442aabda79.PNG" width="80%">
+<img src="https://user-images.githubusercontent.com/69441007/104813835-05543f00-584f-11eb-82b5-83442aabda79.PNG" width="50%">
 <br>
 
 -Epoch: 50<br>
@@ -50,7 +50,7 @@ Deep Learning based Sewer Defect Automatic Recognition System <br><br>
 
 <h3><2. Testing Accuracy><br></h3>
   <br>
-  <img src="https://user-images.githubusercontent.com/69441007/104813781-a1317b00-584e-11eb-9ab6-0d55c33dab99.png" width="80%">
+  <img src="https://user-images.githubusercontent.com/69441007/104813781-a1317b00-584e-11eb-9ab6-0d55c33dab99.png" width="50%">
 <br>
 
 -Testing Accuracy = 95.2%<br>
