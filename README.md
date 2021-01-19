@@ -2,7 +2,9 @@
 :Deep Learning based Sewer Defect Automatic Recognition System 
 
 <p align="center">
-  <img src="your_relative_path_here" width="350" title="논문">
+  <img src="
+[[2020한국차세대컴퓨팅학회논문] 딥러닝 기반의 하수관로 결함 자동 인식 시스템.pdf](https://github.com/SEONJAEK/Sewer-Crack-Detection/files/5835747/2020.pdf)
+            " width="350" title="논문">
   <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
 </p>
 
