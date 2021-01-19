@@ -33,7 +33,7 @@ Deep Learning based Sewer Defect Automatic Recognition System <br><br>
 <h3>2)하수관로 자동 인식 시스템 구조</h3>
 <br>
 <img src="https://user-images.githubusercontent.com/69441007/104813811-dccc4500-584e-11eb-8f33-0e3215b80318.PNG" width="80%">
-
+<br>
 
 <h3>3)실험 결과</h3><br>
 <h3><1. Training Accuracy><br></h3>
@@ -47,7 +47,7 @@ Deep Learning based Sewer Defect Automatic Recognition System <br><br>
 -Training Data Set : 총 4234 장 (train: validation = 8: 2)<br>
 <pre>Training Data Set을 8:2 비율로 나누어 train data 와 validation data로 나누었고,<br>Training Data의 평균 인식률은 <b>97.6%의 정확도</b>를 보였다.<br></pre>
 <br>
-
+<br>
 <h3><2. Testing Accuracy><br></h3>
   <br>
   <img src="https://user-images.githubusercontent.com/69441007/104813781-a1317b00-584e-11eb-9ab6-0d55c33dab99.png" width="50%">
