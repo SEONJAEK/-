@@ -20,10 +20,10 @@ Deep Learning based Sewer Defect Automatic Recognition System <br><br>
 총 데이터 개수: 4634개(Training Data + Testing Data)<br>
 -Training Data: 4234개<br>
 -Testing Data: 400개 (클래스 별 각 50개)
-
-![sewerclass11](https://user-images.githubusercontent.com/69441007/105034463-dc28ee00-5a9c-11eb-8007-02021bbfb89c.png)
 <br>
-
+![sewerclass11](https://user-images.githubusercontent.com/69441007/105034463-dc28ee00-5a9c-11eb-8007-02021bbfb89c.png) width="70%
+<br>
+<br>
 ![class1](https://user-images.githubusercontent.com/69441007/104813768-89f28d80-584e-11eb-866e-0c5943cc72e9.PNG)
 
 <br>
