@@ -28,11 +28,12 @@ Deep Learning based Sewer Defect Automatic Recognition System <br><br>
 <br>
 <img src="https://user-images.githubusercontent.com/69441007/104813768-89f28d80-584e-11eb-866e-0c5943cc72e9.PNG" width="80%">
 
-
+<br>
 <br>
 <h3>2)하수관로 자동 인식 시스템 구조</h3>
+<br>
+<img src="https://user-images.githubusercontent.com/69441007/104813811-dccc4500-584e-11eb-8f33-0e3215b80318.PNG" width="80%">
 
-![model](https://user-images.githubusercontent.com/69441007/104813811-dccc4500-584e-11eb-8f33-0e3215b80318.PNG)
 
 <h3>3)실험 결과</h3><br>
 <h3><1. Training Accuracy><br></h3>
