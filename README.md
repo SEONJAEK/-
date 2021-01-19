@@ -37,8 +37,9 @@ Deep Learning based Sewer Defect Automatic Recognition System <br><br>
 
 <h3>3)실험 결과</h3><br>
 <h3><1. Training Accuracy><br></h3>
-  
-![trainAccuracy](https://user-images.githubusercontent.com/69441007/104813835-05543f00-584f-11eb-82b5-83442aabda79.PNG)
+ <br>
+<img src="https://user-images.githubusercontent.com/69441007/104813835-05543f00-584f-11eb-82b5-83442aabda79.PNG" width="80%">
+<br>
 
 -Epoch: 50<br>
 -Batch size: 64<br>
@@ -48,8 +49,9 @@ Deep Learning based Sewer Defect Automatic Recognition System <br><br>
 <br>
 
 <h3><2. Testing Accuracy><br></h3>
-  
-![TestAccuracy](https://user-images.githubusercontent.com/69441007/104813781-a1317b00-584e-11eb-9ab6-0d55c33dab99.png)
+  <br>
+  <img src="https://user-images.githubusercontent.com/69441007/104813781-a1317b00-584e-11eb-9ab6-0d55c33dab99.png" width="80%">
+<br>
 
 -Testing Accuracy = 95.2%<br>
 <pre>Testing Data Set 이미지 400장(클래스 별 50장)을 사용하여 하수관 결함 자동 시스템 인식률을 측정하였고,<br>Testing Data의 평균 인식률은 <b>95.2%의 정확도</b>를 보였다.<br></pre>
